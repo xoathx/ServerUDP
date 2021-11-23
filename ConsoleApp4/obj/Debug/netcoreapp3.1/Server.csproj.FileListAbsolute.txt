@@ -1,0 +1,15 @@
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vladislav\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
